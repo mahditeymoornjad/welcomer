@@ -1,0 +1,2 @@
+# welcomer
+discord welcomer code
